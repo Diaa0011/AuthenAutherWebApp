@@ -1,0 +1,6 @@
+@AuthenAutherWebApp_HostAddress = http://localhost:5225
+
+GET {{AuthenAutherWebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
